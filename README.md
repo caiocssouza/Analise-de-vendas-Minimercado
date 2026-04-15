@@ -49,7 +49,7 @@ cobrindo desde a limpeza dos dados brutos até a geração de insights de negóc
 - Metas estipuladas estão 989% acima do realizado — revisão necessária
 
 ## 🚀 Próximos Passos
-- [ ] Dashboard interativo no Power BI
+- [ ] Dashboard interativo no Power BI *em andanmento*
 - [ ] Análise com SQL
 
 ## 👤 Autor
